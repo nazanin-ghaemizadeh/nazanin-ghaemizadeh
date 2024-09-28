@@ -1,0 +1,4 @@
+# Nazanin Ghaemi-Zadeh
+Nazanin Ghaemi-Zadeh is currently pursuing a Master's degree in Industrial Engineering at Sharif University of Technology, where her focus is on addressing complex challenges in operations research, financial engineering, and strategic decision-making. Throughout her academic journey, she has developed a deep expertise in applying advanced optimization techniques, with a particular interest in sustainability.
+
+Her ongoing research is centered on multi-period portfolio optimization, incorporating fuzzy logic, sustainability dimensions, and advanced decision-making frameworks. Working closely with renowned experts, she has contributed to cutting-edge research that has been featured in prominent journals, driving forward innovation in business analytics and financial engineering.
