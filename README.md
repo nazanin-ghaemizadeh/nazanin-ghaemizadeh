@@ -8,19 +8,19 @@ Nazanin Ghaemi-Zadeh is currently pursuing a Master's degree in Industrial Engin
 Her ongoing research is centered on multi-period portfolio optimization, incorporating fuzzy logic, sustainability dimensions, and advanced decision-making frameworks. Working closely with renowned experts, she has contributed to cutting-edge research that has been featured in prominent journals, driving forward innovation in business analytics and financial engineering.
 </p>
 
-### Connect with me:
+### Connection With Me:
 
 <div style="text-align: center;">
 
-[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=google-chrome&logoColor=white)](https://www.nazaninghaemizadeh.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazanin-ghaemizadeh/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nghz.sut@gmail.com)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=22CBo8EAAAAJ)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Nazanin-Ghaemi-Zadeh)
+[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=google-chrome&logoColor=white)](https://www.nazaninghaemizadeh.com/)
 
 </div>
 
-### Languages and Tools:
+### Programming Languages and Tools:
 
 <div style="text-align: center;">
   
