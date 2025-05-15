@@ -1,4 +1,4 @@
-# 👋 About Me
+## 👋 About Me
 
 🎓 Nazanin is a graduate student in Engineering Management at <a href="https://en.sharif.ir/" target="_blank"><strong>Sharif University of Technology</strong></a>, with a strong academic background in <strong>Industrial Engineering</strong>, <strong>Business Analytics</strong>, <strong>Data Science</strong>, <strong>Multi-Criteria Decision-Making</strong>, and <strong>Business Process Management</strong>.
 
