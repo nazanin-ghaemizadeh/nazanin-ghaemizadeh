@@ -8,10 +8,10 @@
 
 ## 📘 Academic Background
 
-- **M.Sc. in Engineering Management**, Sharif University of Technology  
+- **M.Sc. in Engineering Management**, [Sharif University of Technology](https://en.sharif.ir/)  
   *Ranked 2nd*, GPA: 18.82/20 (4.00/4.00)
 
-- **B.Sc. in Industrial Engineering**, Alzahra University  
+- **B.Sc. in Industrial Engineering**, [Alzahra University](https://alzahra.ac.ir/)  
   *Ranked 1st*, GPA: 19.09/20 (3.94/4.00)
 
 ---
